@@ -155,7 +155,7 @@ Actual Hours Worked: 2,000,000
 
 Top 3 Skills Utilized: Carpentry, Plumbing, Electrical
 
-Insight: Optimizing labor schedules and upskilling workers in key areas can significantly impact project cost and timeline.
+**Insight to Associate Director**: Optimizing labor schedules and upskilling workers in key areas can significantly impact project cost and timeline.
 
 **3. Material Cost Analysis:**
 
@@ -165,7 +165,7 @@ Total Material Cost: Rs30,000,000
 
 Average Supplier Delivery Time: 10 days
 
-Insight: Negotiating supplier contracts and optimizing delivery schedules for critical materials can lead to time and cost savings.
+**Insight to Associate Director**: Negotiating supplier contracts and optimizing delivery schedules for critical materials can lead to time and cost savings.
 
 **4. Project Completion Time Analysis:**
 
@@ -175,7 +175,7 @@ Current Completion Date: July 15, 2024
 
 Project Delay: 15 days
 
-Insight: Addressing current delays proactively is crucial to avoid further setbacks and ensure timely completion.
+**Insight to Associate Director**: Addressing current delays proactively is crucial to avoid further setbacks and ensure timely completion.
 
 **5. Project Budget Variance Analysis:**
 
@@ -185,7 +185,7 @@ Current Budget: Rs100,200,000
 
 Budget Variance: Rs20,00,000
 
-Insight: Implementing cost control measures and closely monitoring budget allocation can help stay on track financially.
+**Insight to Associate Director**: Implementing cost control measures and closely monitoring budget allocation can help stay on track financially.
 
 **Actionable Recommendations to Associate Director:**
 
