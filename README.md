@@ -4,19 +4,19 @@
 **Introduction:**:The construction industry is a vital sector of the global economy, contributing significantly to infrastructure development and economic growth. However, it also faces challenges related to project delays, budget overruns, safety concerns, and material waste. Data analysis using tools like MySQL and Power Bi can provide valuable insights to overcome these challenges and optimize construction processes.
 
 **Main Objectives of the Analysis:**
-Identify and analyze project cost drivers.
+-Identify and analyze project cost drivers.
 
-Evaluate labor and material efficiency levels.
+-Evaluate labor and material efficiency levels.
 
-Assess project safety performance.
+-Assess project safety performance.
 
-Measure vendor performance and identify potential areas for improvement.
+-Measure vendor performance and identify potential areas for improvement.
 
-Optimize equipment usage and reduce costs.
+-Optimize equipment usage and reduce costs.
 
-Analyze project profitability and identify factors impacting it.
+-Analyze project profitability and identify factors impacting it.
 
-Develop data-driven strategies to improve project planning, execution, and delivery.
+-Develop data-driven strategies to improve project planning, execution, and delivery.
 
 **Data Analysis Process**
 In this project, I have followed a systematic approach to analyze the pizza sales data and derive meaningful insights. The analysis process involved the following steps:
