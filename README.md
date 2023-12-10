@@ -21,8 +21,9 @@
 ****Data Analysis Process****
 In this project, I have followed a systematic approach to analyze the pizza sales data and derive meaningful insights. The analysis process involved the following steps:
 
-**1.** Data Collection:****
+****1.** Data Collection:******
 The construction data used in this analysis is collected from my company portal
+
 **2. Dataset Description:**
 There are total 10 table which are mentioned below:
 
