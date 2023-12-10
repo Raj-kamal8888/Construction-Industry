@@ -131,7 +131,7 @@ I have utilized SQL queries to extract relevant information from the dataset.Thi
 
 **1. Project Cost Analysis:**
 
-Total Project Cost: $10,000,000
+Total Project Cost: Rs100,000,000
 
 Cost Breakdown:
 
@@ -145,13 +145,13 @@ Subcontractors: 10%
 
 Miscellaneous: 5%
 
-Insight: Labor is the biggest cost driver, emphasizing efficient workforce management.
+**Insight to Associate Director**: Labor is the biggest cost driver, emphasizing efficient workforce management.
 
-**2. Labor Cost Analysis:
-**
-Average Labor Rate: $25/hour
+**2. Labor Cost Analysis:**
+   
+Average Labor Rate: Rs25/hour
 
-Actual Hours Worked: 200,000
+Actual Hours Worked: 2,000,000
 
 Top 3 Skills Utilized: Carpentry, Plumbing, Electrical
 
@@ -161,7 +161,7 @@ Insight: Optimizing labor schedules and upskilling workers in key areas can sign
 
 Most Used Material: Steel
 
-Total Material Cost: $3,000,000
+Total Material Cost: Rs30,000,000
 
 Average Supplier Delivery Time: 10 days
 
@@ -179,11 +179,11 @@ Insight: Addressing current delays proactively is crucial to avoid further setba
 
 **5. Project Budget Variance Analysis:**
 
-Planned Budget: $10,000,000
+Planned Budget: Rs100,000,000
 
-Current Budget: $10,200,000
+Current Budget: Rs100,200,000
 
-Budget Variance: $200,000
+Budget Variance: Rs20,00,000
 
 Insight: Implementing cost control measures and closely monitoring budget allocation can help stay on track financially.
 
