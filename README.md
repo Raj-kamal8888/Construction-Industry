@@ -117,3 +117,89 @@ Maintenance Description
 
 Repair Cost
 
+**3.Data Preprocessing:**
+
+I performed data cleaning and transformation to ensure the dataset's quality and suitability for analysis. This included handling missing values, removing duplicates, and formatting data types.
+
+**4.Normalization:**
+
+The normalization process aims to organize the dataset into multiple tables, minimize redundancy, and establish relationships between entities
+
+**5.SQL Queries:**
+
+I have utilized SQL queries to extract relevant information from the dataset.This involved querying the database to obtain insights and inform to Associate Director
+
+**1. Project Cost Analysis:**
+
+Total Project Cost: $10,000,000
+
+Cost Breakdown:
+
+Labor: 40%
+
+Materials: 30%
+
+Equipment: 15%
+
+Subcontractors: 10%
+
+Miscellaneous: 5%
+
+Insight: Labor is the biggest cost driver, emphasizing efficient workforce management.
+
+**2. Labor Cost Analysis:
+**
+Average Labor Rate: $25/hour
+
+Actual Hours Worked: 200,000
+
+Top 3 Skills Utilized: Carpentry, Plumbing, Electrical
+
+Insight: Optimizing labor schedules and upskilling workers in key areas can significantly impact project cost and timeline.
+
+**3. Material Cost Analysis:**
+
+Most Used Material: Steel
+
+Total Material Cost: $3,000,000
+
+Average Supplier Delivery Time: 10 days
+
+Insight: Negotiating supplier contracts and optimizing delivery schedules for critical materials can lead to time and cost savings.
+
+**4. Project Completion Time Analysis:**
+
+Planned Completion Date: June 30, 2024
+
+Current Completion Date: July 15, 2024
+
+Project Delay: 15 days
+
+Insight: Addressing current delays proactively is crucial to avoid further setbacks and ensure timely completion.
+
+**5. Project Budget Variance Analysis:**
+
+Planned Budget: $10,000,000
+
+Current Budget: $10,200,000
+
+Budget Variance: $200,000
+
+Insight: Implementing cost control measures and closely monitoring budget allocation can help stay on track financially.
+
+**Actionable Recommendations to Associate Director:**
+
+Improve workforce efficiency:
+
+Implement lean construction principles.
+
+Cross-train workers for multi-tasking.
+
+Optimize task scheduling and resource allocation.
+
+Strengthen supplier relationships:
+
+Negotiate fixed pricing for materials.
+
+Establish reliable delivery schedules.
+
