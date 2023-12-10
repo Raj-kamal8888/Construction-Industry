@@ -5,14 +5,21 @@
 
 **Main Objectives of the Analysis:**
 Identify and analyze project cost drivers.
+
 Evaluate labor and material efficiency levels.
+
 Assess project safety performance.
+
 Measure vendor performance and identify potential areas for improvement.
+
 Optimize equipment usage and reduce costs.
+
 Analyze project profitability and identify factors impacting it.
+
 Develop data-driven strategies to improve project planning, execution, and delivery.
 
 **Data Analysis Process**
 In this project, I have followed a systematic approach to analyze the pizza sales data and derive meaningful insights. The analysis process involved the following steps:
+
 **1.**Data Collection:****
 The construction data used in this analysis is collected from my company portal
