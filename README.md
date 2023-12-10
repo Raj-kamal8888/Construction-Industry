@@ -25,66 +25,67 @@ In this project, I have followed a systematic approach to analyze the pizza sale
 The construction data used in this analysis is collected from my company portal
 **2. Dataset Description:**
 There are total 10 table which are mentioned below:
+
 **1. Project Cost Analysis:**
 
-Start Date: DATE(start_date)
-Completion Date: DATE(completion_date)
-Project Duration: DATEDIFF(completion_date, start_date)
-Cost Breakdown: SUM(cost) BY cost_category
+Start Date
+Completion Date
+Project Duration (DATEDIFF(completion_date, start_date)
+Cost Breakdown (SUM(cost) BY cost_category)
 
 **2. Labor Cost Analysis:**
 
-Skill Name: skill_name
-Employee Name: employee_name
-Labor Rate: labor_rate
-Actual Hours Worked: actual_hours_worked
+Skill Name: 
+Employee Name
+Labor Rate
+Actual Hours Worked
 
 **3. Material Cost Analysis:**
 
-Project Phase: project_phase
-Supplier Name: supplier_name
-Delivery Date: delivery_date
-Unit Price: unit_price
+Project Phase
+Supplier Name
+Delivery Date
+Unit Price
 
 **4. Project Completion Time Analysis:**
 
-Planned Completion Date: DATE(planned_completion_date)
-Project Delay: DATEDIFF(completion_date, planned_completion_date)
-Completion Variance: (completion_date - planned_completion_date) / planned_completion_date * 100
+Planned Completion Date
+Project Delay (DATEDIFF(completion_date, planned_completion_date))
+Completion Variance ((completion_date - planned_completion_date) / planned_completion_date * 100)
 
 **5. Project Budget Variance Analysis:**
 
-Planned Budget: budget
-Budget Variance Percentage: (SUM(cost) - budget) / budget * 100
+Planned Budget
+Budget Variance Percentage ((SUM(cost) - budget) / budget * 100)
 
 **6. Vendor Performance Analysis:**
 
-Average Delivery Time: AVG(delivery_time)
-Number of Orders: COUNT(*)
-Number of Late Deliveries: COUNT(*) WHERE delivery_date > planned_delivery_date
+Average Delivery Time
+Number of Orders
+Number of Late Deliveries (COUNT(*) WHERE delivery_date > planned_delivery_date)
 
 **7. Most Used Materials Analysis:**
 
-Material Type: material_type
-Unit Cost: unit_cost
-Total Cost: SUM(quantity * unit_cost)
+Material Type
+Unit Cost
+Total Cost (SUM(quantity * unit_cost))
 
 **8. Labor Cost Breakdown by Skill and Project:**
 
-Employee Type: employee_type
-Wage Type: wage_type
-Overtime Hours: overtime_hours
-Overtime Pay: overtime_pay
+Employee Type
+Wage Type
+Overtime Hours
+Overtime Pay
 
 **9. Top Performing Subcontractors:**
 
-Number of Projects: COUNT(DISTINCT project_id)
-Average Contract Value: AVG(contract_value)
+Number of Projects (COUNT(DISTINCT project_id))
+Average Contract Value: (AVG(contract_value))
 
 **10. Tracking Equipment Maintenance Costs:**
 
-Equipment Type: equipment_type
-Maintenance Date: DATE(maintenance_date)
-Maintenance Description: maintenance_description
-Repair Cost: repair_cost
+Equipment Type
+Maintenance Date
+Maintenance Description
+Repair Cost
 
