@@ -1,61 +1,71 @@
 # Construction-Industry
-**Project Overview:**:This project aims to analyze data from the construction industry using MySQL and Power Bi to gain valuable insights and improve project efficiency, cost control, and overall performance. The analysis will focus on various aspects such as project costs, labor and material utilization, safety, vendor performance, equipment usage, and profitability.
 
-**Introduction:**:The construction industry is a vital sector of the global economy, contributing significantly to infrastructure development and economic growth. However, it also faces challenges related to project delays, budget overruns, safety concerns, and material waste. Data analysis using tools like MySQL and Power Bi can provide valuable insights to overcome these challenges and optimize construction processes.
+**Project Overview:**:
+
+▶This project aims to analyze data from the construction industry using MySQL and Power Bi to gain valuable insights and improve project efficiency, cost control, and overall performance. The analysis will focus on various aspects such as project costs, labor and material utilization, safety, vendor performance, equipment usage, and profitability.
+
+**Introduction:**:
+
+▶The construction industry is a vital sector of the global economy, contributing significantly to infrastructure development and economic growth. However, it also faces challenges related to project delays, budget overruns, safety concerns, and material waste. Data analysis using tools like MySQL and Power Bi can provide valuable insights to overcome these challenges and optimize construction processes.
 
 **Main Objectives of the Analysis:**
-- Identify and analyze project cost drivers.
 
-- Evaluate labor and material efficiency levels.
+▶ Identify and analyze project cost drivers.
 
-- Assess project safety performance.
+▶ Evaluate labor and material efficiency levels.
 
-- Measure vendor performance and identify potential areas for improvement.
+▶ Assess project safety performance.
 
-- Optimize equipment usage and reduce costs.
+▶ Measure vendor performance and identify potential areas for improvement.
 
-- Analyze project profitability and identify factors impacting it.
+▶ Optimize equipment usage and reduce costs.
 
-- Develop data-driven strategies to improve project planning, execution, and delivery.
+▶ Analyze project profitability and identify factors impacting it.
 
-****Data Analysis Process****
-In this project, I have followed a systematic approach to analyze the pizza sales data and derive meaningful insights. The analysis process involved the following steps:
+▶ Develop data-driven strategies to improve project planning, execution, and delivery.
+
+**Data Preprocessing:**
+
+I performed data cleaning and transformation to ensure the dataset's quality and suitability for analysis. This included handling missing values, removing duplicates, and formatting data types.
+
 
 ****1.** Data Collection:**
-The construction data used in this analysis is collected from my company portal
+
+▶ The construction data used in this analysis is collected from my company portal
 
 **2. Dataset Description:**
-There are total 10 table which are mentioned below:
+
+▶ There are total 10 table which are mentioned below:
 
 **1. Project Cost Analysis:**
 
-Start Date
+▶ Start Date
 
-Completion Date
+▶ Completion Date
 
-Project Duration (DATEDIFF(completion_date, start_date)
+▶ Project Duration (DATEDIFF(completion_date, start_date)
 
-Cost Breakdown (SUM(cost) BY cost_category)
+▶ Cost Breakdown (SUM(cost) BY cost_category)
 
 **2. Labor Cost Analysis:**
 
-Skill Name
+▶ Skill Name
 
-Employee Name
+▶ Employee Name
 
-Labor Rate
+▶ Labor Rate
 
-Actual Hours Worked
+▶ Actual Hours Worked
 
 **3. Material Cost Analysis:**
 
-Project Phase
+▶ Project Phase
 
-Supplier Name
+▶ Supplier Name
 
-Delivery Date
+▶ Delivery Date
 
-Unit Price
+▶ Unit Price
 
 
 **4. Project Completion Time Analysis:**
@@ -116,14 +126,6 @@ Maintenance Date
 Maintenance Description
 
 Repair Cost
-
-**3.Data Preprocessing:**
-
-I performed data cleaning and transformation to ensure the dataset's quality and suitability for analysis. This included handling missing values, removing duplicates, and formatting data types.
-
-**4.Normalization:**
-
-The normalization process aims to organize the dataset into multiple tables, minimize redundancy, and establish relationships between entities
 
 **5.SQL Queries:**
 
