@@ -37,6 +37,9 @@ I performed data cleaning and transformation to ensure the dataset's quality and
 
 ▶ There are total 10 table which are mentioned below:
 
+![Constrction](https://github.com/Raj-kamal8888/Construction-Industry/assets/111457714/cd7f42e4-5956-4994-a8eb-4088dcd30154)
+
+
 **1. Project Cost Analysis:**
 
 ▶ Start Date
